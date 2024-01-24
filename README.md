@@ -20,3 +20,7 @@ git add submission
 git commit -m "added submission files"
 git push
 ```
+
+Names and Profiles:
+Ivan Bury ivanpbury
+Tahn Jandai Tahn04
